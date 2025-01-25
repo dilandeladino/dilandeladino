@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dilandeladino
-- 👀 I’m interested in studying every subject
+- 👀 I’m currently enrolling engineering major
 - 🌱 I’m currently learning web programming & data science
-- 💞️ I’m looking to collaborate on life
-- 📫 How to reach me email : dilandeladino15@gmail.com
+- 💞️ I’m looking to collaborate on any projects related to web programming
+- 📫 How to reach me
+  email  : dilandeladino15@gmail.com
 
 <!---
 dilandeladino/dilandeladino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
